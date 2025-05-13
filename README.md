@@ -1,1 +1,1 @@
-This repository contains coursework and final project paper related to Natural Language Processing. Tools used: Pytorch, standard Machine Learning Libraries, Embedding models (GloVe, WordtoVec) and more.
+This repository contains coursework and final project paper related to Natural Language Processing. Tools used: Pytorch, OpenAI GPT-4o-mini (fine-tuned), standard Machine Learning Libraries (scikit-learn, matplotlib, seaborn), Embedding models (GloVe, WordtoVec) and more.
